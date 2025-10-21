@@ -1,0 +1,41 @@
+[
+  {
+    "id": "suz-001",
+    "name": "Suzuki Ertiga GL 2025",
+    "price": "Rp 235.000.000",
+    "img": "/images/ertiga.jpg",
+    "specs": {
+      "engine": "1.5L, 4-silinder",
+      "power": "103 HP",
+      "transm": "CVT / Manual",
+      "seats": 7
+    },
+    "colors": ["Putih","Merah","Biru"]
+  },
+  {
+    "id": "suz-002",
+    "name": "Suzuki XL7 Zeta 2025",
+    "price": "Rp 265.000.000",
+    "img": "/images/xl7.jpg",
+    "specs": {
+      "engine": "1.5L",
+      "power": "105 HP",
+      "transm": "CVT",
+      "seats": 7
+    },
+    "colors": ["Hitam","Silver","Merah"]
+  },
+  {
+    "id": "suz-003",
+    "name": "Suzuki Baleno Hatch 2025",
+    "price": "Rp 195.000.000",
+    "img": "/images/baleno.jpg",
+    "specs": {
+      "engine": "1.4L",
+      "power": "92 HP",
+      "transm": "Manual / CVT",
+      "seats": 5
+    },
+    "colors": ["Biru","Putih"]
+  }
+]
